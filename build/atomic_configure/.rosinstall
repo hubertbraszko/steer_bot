@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /catkin_ws_steer_bot/devel/setup.sh

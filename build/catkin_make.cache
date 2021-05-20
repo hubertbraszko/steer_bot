@@ -1,0 +1,2 @@
+steer_bot/steer_bot_control:steer_bot/steer_bot_description:steer_bot/steer_bot_gazebo:steer_bot/steer_bot_viz:steer_drive_ros/steer_bot_hardware_gazebo:steer_drive_ros/steer_drive_controller:steer_drive_ros/steer_drive_ros:steer_drive_ros/stepback_and_steerturn_recovery
+-DCATKIN_DEVEL_PREFIX=/catkin_ws_steer_bot/devel -DCMAKE_INSTALL_PREFIX=/catkin_ws_steer_bot/install -G Unix Makefiles
